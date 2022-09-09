@@ -1,0 +1,38 @@
+body {
+    background-color: lightgrey;
+    margin: 50px;
+}
+hr {
+    height: 0.25rem;
+    border-radius: 0.7rem;
+    background-color: white;
+    border-color: transparent;
+}
+
+#setOrange {
+    background-color: grey;
+}
+
+.centerContent {
+    text-align: -webkit-center;
+}
+.text {
+    font-size: 1.75rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.backgroundColorBlue {
+    background-color: blue;
+}
+.backgroundColorRed {
+    background-color: red;
+}
+.big {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 0.7rem;
+    border-color: transparent;
+}
+
+.disabled {
+    opacity: 0.5;
+}
