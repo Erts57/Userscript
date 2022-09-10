@@ -1,4 +1,4 @@
-import Userscript from './../lib/library.js';
+import Userscript from '../lib/library.js';
 
 const creationArea = document.createElement("div");
 document.body.appendChild(creationArea);
