@@ -127,4 +127,4 @@ function redToYellow() {
 This set of code makes a button change the style of a button using the id of *red* to the color yellow.
 
 
-Some example scripts can be found in the [example folder](https://github.com/Erts57/Userscript/blob/main/example).
+Some example scripts can be found in the [examples folder](https://github.com/Erts57/Userscript/blob/main/examples).
