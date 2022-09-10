@@ -2,9 +2,9 @@
  
 **Library for making advanced userscripts.**
  
- - [Documentation](https://github.com/Erts57/Userscript/docs)
+ - [Documentation](https://github.com/Erts57/Userscript/blob/main/docs/DOCUMENTATION.md)
  
- - [Library](https://github.com/Erts57/Userscript/lib)
+ - [Library](https://github.com/Erts57/Userscript/blob/main/lib)
  
  - [Examples](https://github.com/erts57/example)
  
