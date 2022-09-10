@@ -1,17 +1,19 @@
 # Userscript Library Documentation
----
+
 ## How to use:
 **Materials for getting started:**
-- [ ] Code Editor (Visual Studio Code, Atom, Notepad++, etc)
-- [ ] A Code Injector (Tampermonkey, etc)
-- [ ] Some JavaScript Experience
-- [ ] Some HTML Experience
-- [ ] *Some CSS Experience (Optional)*
+- Code Editor (Visual Studio Code, Atom, Notepad++, etc)
+- A Code Injector (Tampermonkey, etc)
+- Some JavaScript Experience
+- Some HTML Experience
+- *Some CSS Experience (Optional)*
 
 For this tutorial, i'll be using Visual Studio Code.
+
 **1. Open up VS Code**
 
 **2. Create a new project or JS file** 
+
 Hitting *Ctrl + N* creates a new file.
 
 **3. Getting the library**
@@ -60,6 +62,7 @@ When adding text you don't have to put the type parameter.
 - **content** - the inside text of the content
 
 **6. Adding more content**
+
 Adding a button:
 ```js
 userscript.addContent({
@@ -104,6 +107,7 @@ userscript.reloadStyles("*url to stylesheet.css*");
 One way to add custom css for the userscript elements is to host them on a website like github pages. Once this runs it will inject this to override the default styles.
 
 **8. Injecting**
+
 Copying the code and pasting it into an extension like Tampermonkey is so much easier to inject code.
 
 **9. Modifying Code**
@@ -121,3 +125,6 @@ function redToYellow() {
 }
 ```
 This set of code makes a button change the style of a button using the id of *red* to the color yellow.
+
+
+Some example scripts can be found in the [example folder](https://github.com/erts57/userscript/example).
