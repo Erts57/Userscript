@@ -18,7 +18,7 @@ Hitting *Ctrl + N* creates a new file.
 
 **3. Getting the library**
 ```js
-import Userscript from 'https://erts57.github.io/userscript/lib/library.js';
+import Userscript from 'https://erts57.github.io/projects/userscript/lib/library.js';
 
 const creationArea = document.createElement("div");
 document.body.appendChild(creationArea);
@@ -127,4 +127,4 @@ function redToYellow() {
 This set of code makes a button change the style of a button using the id of *red* to the color yellow.
 
 
-Some example scripts can be found in the [example folder](https://github.com/erts57/userscript/example).
+Some example scripts can be found in the [example folder](https://github.com/Erts57/Userscript/example).
