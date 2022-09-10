@@ -6,7 +6,7 @@
  
  - [Library](https://github.com/Erts57/Userscript/blob/main/lib)
  
- - [Examples](https://github.com/erts57/examples)
+ - [Examples](https://github.com/Erts57/Userscript/tree/main/examples)
  
  - [Github Pages Library](https://erts57.github.io/projects/userscript/lib/library.js)
  
