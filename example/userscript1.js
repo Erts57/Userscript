@@ -18,7 +18,8 @@ helper.addContent({
     type: "button",
     name: "button",
     id: "window",
-    content: "CLICK ME"
+    content: "CLICK ME",
+    callback: "orangeToRed"
 });
 helper.addContent({
     type: "slider",
@@ -52,3 +53,7 @@ helper.addContent({
 });
 
 helper.start();
+
+function orangeToRed() {
+    document.getElementById("orange").style.backgroundColor = "red";
+}
